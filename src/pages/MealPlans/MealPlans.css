@@ -1,0 +1,12 @@
+.mealplans-section {
+    z-index: 2;
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    position: relative; 
+    top: 80px
+}
+
+.MealplansTitle {
+    color: rgb(172, 20, 134);
+    text-align: center;
+}

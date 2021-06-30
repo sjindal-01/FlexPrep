@@ -1,0 +1,12 @@
+.home-section {
+    z-index: 1;
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    position: relative; 
+    top: 80px
+}
+
+.HomeTitle {
+    color: rgb(172, 20, 134);
+    text-align: center;
+}

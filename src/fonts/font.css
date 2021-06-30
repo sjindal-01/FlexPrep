@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ciabatta';
+    src: local('Ciabatta SemiBold Italic'), local('Ciabatta-SemiBold-Italic'),
+        url('Ciabatta-SemiBoldItalic.woff2') format('woff2'),
+        url('Ciabatta-SemiBoldItalic.woff') format('woff'),
+        url('Ciabatta-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+  }
