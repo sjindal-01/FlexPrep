@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import {MenuItems} from "./MenuItems";
 import { Link } from 'react-scroll';
 import logo from './fprep_logo.png';
 

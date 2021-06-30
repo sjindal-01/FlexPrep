@@ -9,7 +9,6 @@ class Home extends Component {
             Home
             </h1>
             </div> 
-        
         );
     }
 }

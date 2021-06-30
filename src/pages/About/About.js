@@ -8,7 +8,6 @@ class About extends Component {
         <h1 className="AboutTitle">
             About
         </h1>
-
         </div>
         
          );
